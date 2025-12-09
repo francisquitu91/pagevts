@@ -1,0 +1,1229 @@
+<!doctype html>
+<html lang="es" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <!-- Optimización para motores de búsqueda de Rank Math -  https://rankmath.com/ -->
+    <title>Servicio técnico computadores, notebooks, PC y Mac :: Pc-Tech.cl</title>
+    <meta name="description" content="Pc-Tech :: Servicio Técnico de Computadores, Notebooks y PC en Chile 🇨🇱 ️✓ Técnicos Certificados ✓ Reparación de Notebooks HP, Toshiba, Samsung, Mac y más. ¡Presupuestos Gratis! ☎ (9) 5461 3184" />
+    <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+    <link rel="canonical" href="https://pc-tech.cl/" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Servicio Técnico Computadores, Notebooks y Mac" />
+    <meta property="og:description" content="Técnicos Certificados ✓ ¡Presupuestos Gratis! ☎ (9) 5461 3184" />
+    <meta property="og:url" content="https://pc-tech.cl/" />
+    <meta property="og:site_name" content="PcTech" />
+    <meta property="og:updated_time" content="2025-12-04T09:00:42-03:00" />
+    <meta property="og:image" content="https://pc-tech.cl/wp-content/uploads/2023/09/bg-macbook-1.jpeg" />
+    <meta property="og:image:secure_url" content="https://pc-tech.cl/wp-content/uploads/2023/09/bg-macbook-1.jpeg" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1035" />
+    <meta property="og:image:alt" content="servicio tecnico computadores" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="article:published_time" content="2023-09-28T14:54:18-03:00" />
+    <meta property="article:modified_time" content="2025-12-04T09:00:42-03:00" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Servicio Técnico Computadores, Notebooks y Mac" />
+    <meta name="twitter:description" content="Técnicos Certificados ✓ ¡Presupuestos Gratis! ☎ (9) 5461 3184" />
+    <meta name="twitter:image" content="https://pc-tech.cl/wp-content/uploads/2023/09/bg-macbook-1.jpeg" />
+    <meta name="twitter:label1" content="Escrito por" />
+    <meta name="twitter:data1" content="webyseo" />
+    <meta name="twitter:label2" content="Tiempo de lectura" />
+    <meta name="twitter:data2" content="1 minuto" />
+    <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Organization","Person"],"@id":"https://pc-tech.cl/#person","name":"PcTech","url":"https://pc-tech.cl","logo":{"@type":"ImageObject","@id":"https://pc-tech.cl/#logo","url":"https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech.png","contentUrl":"https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech.png","caption":"PcTech","inLanguage":"es","width":"220","height":"59"},"image":{"@id":"https://pc-tech.cl/#logo"}},{"@type":"WebSite","@id":"https://pc-tech.cl/#website","url":"https://pc-tech.cl","name":"PcTech","publisher":{"@id":"https://pc-tech.cl/#person"},"inLanguage":"es","potentialAction":{"@type":"SearchAction","target":"https://pc-tech.cl/?s={search_term_string}","query-input":"required
+        name=search_term_string"}},{"@type":"ImageObject","@id":"https://pc-tech.cl/wp-content/uploads/2023/09/logo-samsung.png","url":"https://pc-tech.cl/wp-content/uploads/2023/09/logo-samsung.png","width":"200","height":"200","inLanguage":"es"},{"@type":"WebPage","@id":"https://pc-tech.cl/#webpage","url":"https://pc-tech.cl/","name":"Servicio
+        t\u00e9cnico computadores, notebooks, PC y Mac :: Pc-Tech.cl","datePublished":"2023-09-28T14:54:18-03:00","dateModified":"2025-12-04T09:00:42-03:00","about":{"@id":"https://pc-tech.cl/#person"},"isPartOf":{"@id":"https://pc-tech.cl/#website"},"primaryImageOfPage":{"@id":"https://pc-tech.cl/wp-content/uploads/2023/09/logo-samsung.png"},"inLanguage":"es"},{"@type":"Person","@id":"https://pc-tech.cl/author/webyseo/","name":"webyseo","url":"https://pc-tech.cl/author/webyseo/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/6e4f442d4b199ba4c5408dc28ad424f779b03c5c11534104b3920dd3d8273e91?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/6e4f442d4b199ba4c5408dc28ad424f779b03c5c11534104b3920dd3d8273e91?s=96&amp;d=mm&amp;r=g","caption":"webyseo","inLanguage":"es"},"sameAs":["https://pc-tech.cl"]},{"@type":"Article","headline":"Servicio
+        t\u00e9cnico computadores, notebooks, PC y Mac :: Pc-Tech.cl","keywords":"servicio tecnico computadores","datePublished":"2023-09-28T14:54:18-03:00","dateModified":"2025-12-04T09:00:42-03:00","author":{"@id":"https://pc-tech.cl/author/webyseo/","name":"webyseo"},"publisher":{"@id":"https://pc-tech.cl/#person"},"description":"Pc-Tech
+        :: Servicio T\u00e9cnico de Computadores, Notebooks y PC en Chile \ud83c\udde8\ud83c\uddf1 \ufe0f\u2713 T\u00e9cnicos Certificados \u2713 Reparaci\u00f3n de Notebooks HP, Toshiba, Samsung, Mac y m\u00e1s. \u00a1Presupuestos Gratis! \u260e (9)
+        5461 3184","name":"Servicio t\u00e9cnico computadores, notebooks, PC y Mac :: Pc-Tech.cl","@id":"https://pc-tech.cl/#richSnippet","isPartOf":{"@id":"https://pc-tech.cl/#webpage"},"image":{"@id":"https://pc-tech.cl/wp-content/uploads/2023/09/logo-samsung.png"},"inLanguage":"es","mainEntityOfPage":{"@id":"https://pc-tech.cl/#webpage"}}]}</script>
+    <!-- /Plugin Rank Math WordPress SEO -->
+
+    <link rel="alternate" type="application/rss+xml" title="PcTech &raquo; Feed" href="https://pc-tech.cl/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="PcTech &raquo; Feed de los comentarios" href="https://pc-tech.cl/comments/feed/" />
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://pc-tech.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpc-tech.cl%2F" />
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://pc-tech.cl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpc-tech.cl%2F&#038;format=xml" />
+    <style id='wp-img-auto-sizes-contain-inline-css'>
+        img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+        /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+    </style>
+    <style id='wp-emoji-styles-inline-css'>
+        img.wp-smiley, img.emoji {
+        		display: inline !important;
+        		border: none !important;
+        		box-shadow: none !important;
+        		height: 1em !important;
+        		width: 1em !important;
+        		margin: 0 0.07em !important;
+        		vertical-align: -0.1em !important;
+        		background: none !important;
+        		padding: 0 !important;
+        	}
+        /*# sourceURL=wp-emoji-styles-inline-css */
+    </style>
+    <style id='classic-theme-styles-inline-css'>
+        /*! This file is auto-generated */
+        .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+        /*# sourceURL=/wp-includes/css/classic-themes.min.css */
+    </style>
+    <link rel='stylesheet' id='hello-elementor-css' href='https://pc-tech.cl/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1' media='all' />
+    <link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://pc-tech.cl/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1' media='all' />
+    <link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://pc-tech.cl/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.4' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css' href='https://pc-tech.cl/wp-content/uploads/elementor/css/post-5.css?ver=1709536233' media='all' />
+    <link rel='stylesheet' id='elementor-icons-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0' media='all' />
+    <link rel='stylesheet' id='swiper-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+    <link rel='stylesheet' id='elementor-pro-css' href='https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.19.3' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='https://pc-tech.cl/wp-content/uploads/elementor/css/global.css?ver=1709536233' media='all' />
+    <link rel='stylesheet' id='elementor-post-104-css' href='https://pc-tech.cl/wp-content/uploads/elementor/css/post-104.css?ver=1764849648' media='all' />
+    <link rel='stylesheet' id='elementor-post-11-css' href='https://pc-tech.cl/wp-content/uploads/elementor/css/post-11.css?ver=1709536417' media='all' />
+    <link rel='stylesheet' id='elementor-post-77-css' href='https://pc-tech.cl/wp-content/uploads/elementor/css/post-77.css?ver=1709536234' media='all' />
+    <link rel='stylesheet' id='joinchat-css' href='https://pc-tech.cl/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.0.17' media='all' />
+    <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Kumbh+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLexend+Deca%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.9'
+    media='all' />
+    <link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-regular-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <script src="https://pc-tech.cl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+    <link rel="https://api.w.org/" href="https://pc-tech.cl/wp-json/" />
+    <link rel="alternate" title="JSON" type="application/json" href="https://pc-tech.cl/wp-json/wp/v2/pages/104" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pc-tech.cl/xmlrpc.php?rsd" />
+    <meta name="generator" content="WordPress 6.9" />
+    <link rel='shortlink' href='https://pc-tech.cl/' />
+    <meta name="generator" content="Site Kit by Google 1.121.0" />
+    <meta name="generator" content="Elementor 3.19.4; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+    <link rel="icon" href="https://pc-tech.cl/wp-content/uploads/2023/09/favicon-150x150.png" sizes="32x32" />
+    <link rel="icon" href="https://pc-tech.cl/wp-content/uploads/2023/09/favicon-300x300.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://pc-tech.cl/wp-content/uploads/2023/09/favicon-300x300.png" />
+    <meta name="msapplication-TileImage" content="https://pc-tech.cl/wp-content/uploads/2023/09/favicon-300x300.png" />
+    <style id="wpforms-css-vars-root">
+        :root {
+        					--wpforms-field-border-radius: 3px;
+        --wpforms-field-border-style: solid;
+        --wpforms-field-border-size: 1px;
+        --wpforms-field-background-color: #ffffff;
+        --wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+        --wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );
+        --wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+        --wpforms-field-menu-color: #ffffff;
+        --wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+        --wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+        --wpforms-label-error-color: #d63637;
+        --wpforms-button-border-radius: 3px;
+        --wpforms-button-border-style: none;
+        --wpforms-button-border-size: 1px;
+        --wpforms-button-background-color: #066aab;
+        --wpforms-button-border-color: #066aab;
+        --wpforms-button-text-color: #ffffff;
+        --wpforms-page-break-color: #066aab;
+        --wpforms-background-image: none;
+        --wpforms-background-position: center center;
+        --wpforms-background-repeat: no-repeat;
+        --wpforms-background-size: cover;
+        --wpforms-background-width: 100px;
+        --wpforms-background-height: 100px;
+        --wpforms-background-color: rgba( 0, 0, 0, 0 );
+        --wpforms-background-url: none;
+        --wpforms-container-padding: 0px;
+        --wpforms-container-border-style: none;
+        --wpforms-container-border-width: 1px;
+        --wpforms-container-border-color: #000000;
+        --wpforms-container-border-radius: 3px;
+        --wpforms-field-size-input-height: 43px;
+        --wpforms-field-size-input-spacing: 15px;
+        --wpforms-field-size-font-size: 16px;
+        --wpforms-field-size-line-height: 19px;
+        --wpforms-field-size-padding-h: 14px;
+        --wpforms-field-size-checkbox-size: 16px;
+        --wpforms-field-size-sublabel-spacing: 5px;
+        --wpforms-field-size-icon-size: 1;
+        --wpforms-label-size-font-size: 16px;
+        --wpforms-label-size-line-height: 19px;
+        --wpforms-label-size-sublabel-font-size: 14px;
+        --wpforms-label-size-sublabel-line-height: 17px;
+        --wpforms-button-size-font-size: 17px;
+        --wpforms-button-size-height: 41px;
+        --wpforms-button-size-padding-h: 15px;
+        --wpforms-button-size-margin-top: 10px;
+        --wpforms-container-shadow-size-box-shadow: none;
+        
+        				}
+    </style>
+    <style id='global-styles-inline-css'>
+        :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+        /*# sourceURL=global-styles-inline-css */
+    </style>
+    <link rel='stylesheet' id='ti-widget-css-google-css' href='https://pc-tech.cl/wp-content/uploads/trustindex-google-widget.css?ver=1744292155' media='all' />
+    <link rel='stylesheet' id='e-animations-css' href='https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.19.4' media='all' />
+</head>
+
+<body class="home wp-singular page-template-default page page-id-104 wp-theme-hello-elementor elementor-default elementor-kit-5 elementor-page elementor-page-104">
+
+
+    <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+
+    <div data-elementor-type="header" data-elementor-id="11" class="elementor elementor-11 elementor-location-header" data-elementor-post-type="elementor_library">
+        <div class="elementor-element elementor-element-0042d5f elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="0042d5f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-f684f97 e-con-full e-flex e-con e-child" data-id="f684f97" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-c15f451 elementor-icon-list--layout-inline elementor-align-left elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c15f451" data-element_type="widget" data-widget_type="icon-list.default">
+                        <div class="elementor-widget-container">
+                            <link rel="stylesheet" href="https://pc-tech.cl/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
+                            <ul class="elementor-icon-list-items elementor-inline-items">
+                                <li class="elementor-icon-list-item elementor-inline-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-clock"></i>						</span>
+                                    <span class="elementor-icon-list-text">Lun - Vie 10:00 a 14:00 y 15:00 a 18:00</span>
+                                </li>
+                                <li class="elementor-icon-list-item elementor-inline-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-volume"></i>						</span>
+                                    <span class="elementor-icon-list-text">(2) 2993 5548</span>
+                                </li>
+                                <li class="elementor-icon-list-item elementor-inline-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marked-alt"></i>						</span>
+                                    <span class="elementor-icon-list-text">Huerfanos 886, Oficina 807 Santiago</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-d183804 e-con-full e-flex e-con e-child" data-id="d183804" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-0213e9b elementor-shape-circle e-grid-align-right elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="0213e9b" data-element_type="widget" data-widget_type="social-icons.default">
+                        <div class="elementor-widget-container">
+                            <style>
+                                /*! elementor - v3.19.0 - 28-02-2024 */
+                                .elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + 2 * var(--icon-padding, .5em));height:calc(var(--icon-size, 25px) + 2 * var(--icon-padding, .5em))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#69727d;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#69727d}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}
+                            </style>
+                            <div class="elementor-social-icons-wrapper elementor-grid">
+                                <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-c23ffb3" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+                                <i class="fab fa-facebook"></i> </a>
+                                </span>
+                                <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-132c15a" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+                                <i class="fab fa-linkedin"></i> </a>
+                                </span>
+                                <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-f001c64" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+                                <i class="fab fa-youtube"></i> </a>
+                                </span>
+                                <span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-whatsapp elementor-repeater-item-f190ad8" href="https://api.whatsapp.com/send?phone=+56954613184&#038;text=%C2%A1Ayuda!%20tengo%20problemas%20con%20mi%20equipo...%20" target="_blank">
+						<span class="elementor-screen-only">Whatsapp</span>
+                                <i class="fab fa-whatsapp"></i> </a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-a30f688 e-flex e-con-boxed e-con e-parent" data-id="a30f688" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}"
+        data-core-v316-plus="true">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-c7ddcb7 e-con-full e-flex e-con e-child" data-id="c7ddcb7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-424ad53 elementor-widget elementor-widget-image" data-id="424ad53" data-element_type="widget" data-widget_type="image.default">
+                        <div class="elementor-widget-container">
+                            <style>
+                                /*! elementor - v3.19.0 - 28-02-2024 */
+                                .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
+                            </style>
+                            <a href="https://pc-tech.cl/">
+                                <img fetchpriority="high" width="800" height="180" src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2-v-1024x231.png" class="attachment-large size-large wp-image-348" alt="" srcset="https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2-v-1024x231.png 1024w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2-v-300x68.png 300w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2-v-768x173.png 768w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2-v-1536x346.png 1536w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2-v-2048x462.png 2048w"
+                                sizes="(max-width: 800px) 100vw, 800px" /> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-04701cc e-con-full e-flex e-con e-child" data-id="04701cc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-0cd9b24 elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="0cd9b24" data-element_type="widget"
+                    data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}"
+                    data-widget_type="nav-menu.default">
+                        <div class="elementor-widget-container">
+                            <link rel="stylesheet" href="https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">
+                            <nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-grow">
+                                <ul id="menu-1-0cd9b24" class="elementor-nav-menu">
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-388"><a href="#" class="elementor-item elementor-item-anchor">Reparacion de Notebook</a>
+                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-hp/" class="elementor-sub-item">Reparación de Notebook HP</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-toshiba/" class="elementor-sub-item">Reparación de Notebook Toshiba</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-samsung/" class="elementor-sub-item">Reparacion de Notebook Samsung</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-lenovo/" class="elementor-sub-item">Reparacion de Notebook Lenovo</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-asus/" class="elementor-sub-item">Reparación de Notebook Asus</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-chuwi/" class="elementor-sub-item">Reparación de Notebook Chuwi</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-dell/" class="elementor-sub-item">Reparación de Notebook Dell</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-acer/" class="elementor-sub-item">Reparación de Notebook Acer</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-434"><a href="https://pc-tech.cl/reparacion-de-mac/" class="elementor-item">Reparación de Mac</a>
+                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459"><a href="https://pc-tech.cl/reparacion-de-macbook-pro/" class="elementor-sub-item">Reparación de Macbook Pro</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-458"><a href="https://pc-tech.cl/reparacion-de-macbook-air/" class="elementor-sub-item">Reparación de Macbook Air</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-460"><a href="https://pc-tech.cl/reparacion-de-imac/" class="elementor-sub-item">Reparación de iMac</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-446"><a href="#" class="elementor-item elementor-item-anchor">Servicio Tecnico</a>
+                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-448"><a href="https://pc-tech.cl/servicio-tecnico-para-mac/" class="elementor-sub-item">Servicio Técnico para Mac</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a href="https://pc-tech.cl/servicio-tecnico-de-notebook/" class="elementor-sub-item">Servicio Técnico de Notebook</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-450"><a href="https://pc-tech.cl/servicio-tecnico-hp/" class="elementor-sub-item">Servicio Técnico HP</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-451"><a href="https://pc-tech.cl/servicio-tecnico-toshiba/" class="elementor-sub-item">Servicio Técnico Toshiba</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454"><a href="https://pc-tech.cl/servicio-tecnico-dell/" class="elementor-sub-item">Servicio Técnico Dell</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-455"><a href="https://pc-tech.cl/servicio-tecnico-lenovo/" class="elementor-sub-item">Servicio Técnico Lenovo</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-456"><a href="https://pc-tech.cl/servicio-tecnico-acer/" class="elementor-sub-item">Servicio Técnico Acer</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-457"><a href="https://pc-tech.cl/servicio-tecnico-asus/" class="elementor-sub-item">Servicio Técnico Asus</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-453"><a href="https://pc-tech.cl/servicio-tecnico-para-pc-gamers/" class="elementor-sub-item">Servicio Técnico para PC Gamers</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-452"><a href="https://pc-tech.cl/servicio-tecnico-para-computadores/" class="elementor-sub-item">Servicio Técnico para Computadores</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="#" class="elementor-item elementor-item-anchor">Empresas</a></li>
+                                </ul>
+                            </nav>
+                            <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Alternar menú" aria-expanded="false">
+                                <i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menú</span>
+                            </div>
+                            <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+                                <ul id="menu-2-0cd9b24" class="elementor-nav-menu">
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-388"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Reparacion de Notebook</a>
+                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-hp/" class="elementor-sub-item" tabindex="-1">Reparación de Notebook HP</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-toshiba/" class="elementor-sub-item" tabindex="-1">Reparación de Notebook Toshiba</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-samsung/" class="elementor-sub-item" tabindex="-1">Reparacion de Notebook Samsung</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-497"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-lenovo/" class="elementor-sub-item" tabindex="-1">Reparacion de Notebook Lenovo</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-asus/" class="elementor-sub-item" tabindex="-1">Reparación de Notebook Asus</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-chuwi/" class="elementor-sub-item" tabindex="-1">Reparación de Notebook Chuwi</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-dell/" class="elementor-sub-item" tabindex="-1">Reparación de Notebook Dell</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://pc-tech.cl/reparacion-notebook/reparacion-de-notebook-acer/" class="elementor-sub-item" tabindex="-1">Reparación de Notebook Acer</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-434"><a href="https://pc-tech.cl/reparacion-de-mac/" class="elementor-item" tabindex="-1">Reparación de Mac</a>
+                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-459"><a href="https://pc-tech.cl/reparacion-de-macbook-pro/" class="elementor-sub-item" tabindex="-1">Reparación de Macbook Pro</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-458"><a href="https://pc-tech.cl/reparacion-de-macbook-air/" class="elementor-sub-item" tabindex="-1">Reparación de Macbook Air</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-460"><a href="https://pc-tech.cl/reparacion-de-imac/" class="elementor-sub-item" tabindex="-1">Reparación de iMac</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-446"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Servicio Tecnico</a>
+                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-448"><a href="https://pc-tech.cl/servicio-tecnico-para-mac/" class="elementor-sub-item" tabindex="-1">Servicio Técnico para Mac</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a href="https://pc-tech.cl/servicio-tecnico-de-notebook/" class="elementor-sub-item" tabindex="-1">Servicio Técnico de Notebook</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-450"><a href="https://pc-tech.cl/servicio-tecnico-hp/" class="elementor-sub-item" tabindex="-1">Servicio Técnico HP</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-451"><a href="https://pc-tech.cl/servicio-tecnico-toshiba/" class="elementor-sub-item" tabindex="-1">Servicio Técnico Toshiba</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-454"><a href="https://pc-tech.cl/servicio-tecnico-dell/" class="elementor-sub-item" tabindex="-1">Servicio Técnico Dell</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-455"><a href="https://pc-tech.cl/servicio-tecnico-lenovo/" class="elementor-sub-item" tabindex="-1">Servicio Técnico Lenovo</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-456"><a href="https://pc-tech.cl/servicio-tecnico-acer/" class="elementor-sub-item" tabindex="-1">Servicio Técnico Acer</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-457"><a href="https://pc-tech.cl/servicio-tecnico-asus/" class="elementor-sub-item" tabindex="-1">Servicio Técnico Asus</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-453"><a href="https://pc-tech.cl/servicio-tecnico-para-pc-gamers/" class="elementor-sub-item" tabindex="-1">Servicio Técnico para PC Gamers</a></li>
+                                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-452"><a href="https://pc-tech.cl/servicio-tecnico-para-computadores/" class="elementor-sub-item" tabindex="-1">Servicio Técnico para Computadores</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Empresas</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-6527b34 e-con-full e-flex e-con e-child" data-id="6527b34" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-6960adc elementor-align-right elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="6960adc" data-element_type="widget" data-widget_type="button.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-button-wrapper">
+                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=+56954613184&#038;text=%C2%A1Ayuda!%20tengo%20problemas%20con%20mi%20equipo...%20" target="_blank" rel="nofollow">
+                                    <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+                                    <span class="elementor-button-text">9 5461 3184</span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-523821d elementor-align-right elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="523821d" data-element_type="widget" data-widget_type="button.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-button-wrapper">
+                                <a class="elementor-button elementor-button-link elementor-size-sm" href="https://api.whatsapp.com/send?phone=+56954613184&#038;text=%C2%A1Ayuda!%20tengo%20problemas%20con%20mi%20equipo...%20" target="_blank" rel="nofollow">
+                                    <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+                                    <span class="elementor-button-text"></span>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main id="content" class="site-main post-104 page type-page status-publish hentry">
+
+
+        <div class="page-content">
+            <div data-elementor-type="wp-page" data-elementor-id="104" class="elementor elementor-104" data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-c9c5e4d e-con-full e-flex e-con e-parent" data-id="c9c5e4d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+                    <div class="elementor-element elementor-element-4dac2c7 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="4dac2c7" data-element_type="widget"
+                    data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}"
+                    data-widget_type="slides.default">
+                        <div class="elementor-widget-container">
+                            <style>
+                                /*! elementor-pro - v3.19.0 - 26-02-2024 */
+                                .elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{align-items:center}.elementor--h-position-left .swiper-slide-inner{justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}
+                            </style>
+                            <div class="elementor-swiper">
+                                <div class="elementor-slides-wrapper elementor-main-swiper swiper" dir="ltr" data-animation="fadeInUp">
+                                    <div class="swiper-wrapper elementor-slides">
+                                        <div class="elementor-repeater-item-0e06fa0 swiper-slide">
+                                            <div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in" role="img"></div>
+                                            <div class="elementor-background-overlay"></div>
+                                            <div class="swiper-slide-inner">
+                                                <div class="swiper-slide-contents">
+                                                    <h2 class="elementor-slide-heading">Aviso Pc-Tech</h2>
+                                                    <p class="elementor-slide-description">
+                                                        <p style="font-size:25px">Cerrado por remodelacion desde el Miercoles 24 al Lunes 5 de enero, ultimo dia abierto es el Martes 23
+                                                            <p></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-repeater-item-5ed2d19 swiper-slide">
+                                            <div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in" role="img"></div>
+                                            <div class="elementor-background-overlay"></div>
+                                            <a class="swiper-slide-inner" href="https://pc-tech.cl/reparacion-notebook/">
+                                                <div class="swiper-slide-contents">
+                                                    <h2 class="elementor-slide-heading">Reparación de Notebook</h2>
+                                                    <p class="elementor-slide-description"><b><em>Reparamos donde otros fallan</em></b>. Trae tu notebook, ya sea HP, Lenovo, Toshiba, Acer, Xiaomi, Gear, Chuwi, Hyundai, Huawei, Samsung o cualquier otro en desuso. <b>Tu solución está aquí</b>."</p>
+                                                    <div
+                                                    class="elementor-button elementor-slide-button elementor-size-sm">Reparación de Notebook</div>
+                                        </div>
+                                        </a>
+                                    </div>
+                                    <div class="elementor-repeater-item-4b3f4b2 swiper-slide">
+                                        <div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in" role="img"></div>
+                                        <div class="elementor-background-overlay"></div>
+                                        <a class="swiper-slide-inner" href="https://pc-tech.cl/servicio-tecnico-para-mac/">
+                                            <div class="swiper-slide-contents">
+                                                <h2 class="elementor-slide-heading">Upgrade o Reparación para Macbooks</h2>
+                                                <p class="elementor-slide-description">Ofrecemos servicios de reparación y upgrade para MacBook, incluidos modelos Macbook Air, Macbook Pro y más. Restauramos su funcionamiento y mejoramos su rendimiento, ampliando memoria o actualizando componentes.
+                                                    Prolongamos la vida útil de tu equipo</p>
+                                                <div class="elementor-button elementor-slide-button elementor-size-sm">Servicio Técnico para Mac</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="elementor-repeater-item-2475c9f swiper-slide">
+                                        <div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in" role="img"></div>
+                                        <div class="elementor-background-overlay"></div>
+                                        <a class="swiper-slide-inner" href="https://pc-tech.cl/servicio-tecnico-para-pc-gamers/">
+                                            <div class="swiper-slide-contents">
+                                                <h2 class="elementor-slide-heading">Optimiza tu Equipo Gamer</h2>
+                                                <p class="elementor-slide-description">Ofrecemos planes de mantenimiento para equipos informáticos destinados a empresas, pymes y microempresas. Aseguramos el óptimo rendimiento y prolongamos la vida útil de tus dispositivos, adaptándonos a las
+                                                    necesidades específicas.</p>
+                                                <div class="elementor-button elementor-slide-button elementor-size-sm">Upgrade para Gamers</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="swiper-pagination"></div>
+                                <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+                                    <i aria-hidden="true" class="eicon-chevron-left"></i> <span class="elementor-screen-only">Diapositiva anterior</span>
+                                </div>
+                                <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+                                    <i aria-hidden="true" class="eicon-chevron-right"></i> <span class="elementor-screen-only">Diapositiva siguiente</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-711cfe4 e-flex e-con-boxed e-con e-parent" data-id="711cfe4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;zigzag&quot;,&quot;content_width&quot;:&quot;boxed&quot;}"
+            data-core-v316-plus="true">
+                <div class="e-con-inner">
+                    <div class="elementor-shape elementor-shape-top" data-negative="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 5.8" preserveAspectRatio="none">
+                            <path class="elementor-shape-fill" d="M5.4.4l5.4 5.3L16.5.4l5.4 5.3L27.5.4 33 5.7 38.6.4l5.5 5.4h.1L49.9.4l5.4 5.3L60.9.4l5.5 5.3L72 .4l5.5 5.3L83.1.4l5.4 5.3L94.1.4l5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.4 5.3L161 .4l5.4 5.3L172 .4l5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3L261 .4l5.4 5.3L272 .4l5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3L361 .4l5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.6-5.4 5.5 5.3L461 .4l5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1L550 .4l5.4 5.3L561 .4l5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2L650 .4l5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2L750 .4l5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.4h.2L850 .4l5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.4 5.3 5.7-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.4 5.3 5.7-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.4h.2l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.7-5.4 5.4 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.5 5.4h.1l5.6-5.4 5.5 5.3 5.6-5.3 5.5 5.3 5.6-5.3 5.4 5.3 5.7-5.3 5.4 5.3 5.6-5.3 5.5 5.4V0H-.2v5.8z"
+                            />
+                        </svg>
+                    </div>
+                    <div class="elementor-element elementor-element-80b6121 elementor-arrows-position-outside elementor-widget elementor-widget-image-carousel" data-id="80b6121" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;5&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:3000,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
+                    data-widget_type="image-carousel.default">
+                        <div class="elementor-widget-container">
+                            <style>
+                                /*! elementor - v3.19.0 - 28-02-2024 */
+                                .elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}
+                            </style>
+                            <div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+                                <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/hp-support-logo.png" alt="hp-support-logo" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-acer.png" alt="logo-acer" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/mac-logo.png" alt="mac-logo" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-toshiba.png" alt="logo-toshiba" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-chuwi.png" alt="logo-chuwi" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-dell.png" alt="logo-dell" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-lenovo.png" alt="logo-lenovo" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-hyundai-laptop.png" alt="logo-hyundai-laptop" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/windows-logo.png" alt="windows-logo" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 de 10">
+                                        <figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-samsung.png" alt="logo-samsung" />
+                                            <div class="swiper-lazy-preloader"></div>
+                                        </figure>
+                                    </div>
+                                </div>
+                                <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+                                    <i aria-hidden="true" class="eicon-chevron-left"></i> </div>
+                                <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+                                    <i aria-hidden="true" class="eicon-chevron-right"></i> </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-b17615a e-flex e-con-boxed e-con e-parent" data-id="b17615a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-700bb3d e-con-full e-flex e-con e-child" data-id="700bb3d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        <div class="elementor-element elementor-element-2dbb434 elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="2dbb434" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="422" height="700" src="https://pc-tech.cl/wp-content/uploads/2023/09/Captura-de-pantalla-2023-09-28-a-las-19.22.10.png" class="attachment-large size-large wp-image-325" alt="Home" srcset="https://pc-tech.cl/wp-content/uploads/2023/09/Captura-de-pantalla-2023-09-28-a-las-19.22.10.png 422w, https://pc-tech.cl/wp-content/uploads/2023/09/Captura-de-pantalla-2023-09-28-a-las-19.22.10-181x300.png 181w"
+                                sizes="(max-width: 422px) 100vw, 422px" title="Home"> </div>
+                        </div>
+                        <div class="elementor-element elementor-element-cf2cab3 elementor-widget elementor-widget-image" data-id="cf2cab3" data-element_type="widget" data-widget_type="image.default">
+                            <div class="elementor-widget-container">
+                                <img decoding="async" width="422" height="700" src="https://pc-tech.cl/wp-content/uploads/2023/09/Captura-de-pantalla-2023-09-28-a-las-19.22.10.png" class="attachment-large size-large wp-image-325" alt="Home" srcset="https://pc-tech.cl/wp-content/uploads/2023/09/Captura-de-pantalla-2023-09-28-a-las-19.22.10.png 422w, https://pc-tech.cl/wp-content/uploads/2023/09/Captura-de-pantalla-2023-09-28-a-las-19.22.10-181x300.png 181w"
+                                sizes="(max-width: 422px) 100vw, 422px" title="Home"> </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-471cf50 e-con-full e-flex e-con e-child" data-id="471cf50" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        <div class="elementor-element elementor-element-3ef8e0e elementor-widget elementor-widget-heading" data-id="3ef8e0e" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor - v3.19.0 - 28-02-2024 */
+                                    .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
+                                </style>
+                                <h1 class="elementor-heading-title elementor-size-default">REPARACIONES DE NOTEBOOK</h1> </div>
+                        </div>
+                        <div class="elementor-element elementor-element-0876b3b elementor-invisible elementor-widget elementor-widget-heading" data-id="0876b3b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Nuestros servicios le ahorran tiempo</h2> </div>
+                        </div>
+                        <div class="elementor-element elementor-element-f54a982 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f54a982" data-element_type="widget" data-widget_type="icon-list.default">
+                            <div class="elementor-widget-container">
+                                <ul class="elementor-icon-list-items">
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Baños Quimicos</span>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Cambio de Bisagras</span>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Cambios de Teclado</span>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Cambio de Pantallas</span>
+                                    </li>
+                                    <li class="elementor-icon-list-item">
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Reinstalación de Sistemas Operativos</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-5c9c6b5 elementor-widget elementor-widget-button" data-id="5c9c6b5" data-element_type="widget" data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse" href="#">
+                                        <span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-hand-point-right"></i>			</span>
+                                        <span class="elementor-button-text">Contáctanos Ahora!</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-acd81d2 e-flex e-con-boxed e-con e-parent" data-id="acd81d2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-765a614 elementor-widget elementor-widget-heading" data-id="765a614" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default">¿Por qué elegir Pc-Tech? <br>
+Clientes Satisfechos en Google.</h2> </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-8b49dec e-flex e-con-boxed e-con e-parent" data-id="8b49dec" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-20a6f68 elementor-widget elementor-widget-shortcode" data-id="20a6f68" data-element_type="widget" data-widget_type="shortcode.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-shortcode">
+                                <div class="ti-widget ti-goog" data-layout-id="5" data-set-id="light-background" data-pid="" data-language="es" data-version="2" data-review-target-width="275" data-review-text-mode="readmore" data-pager-autoplay-timeout="6">
+                                    <div class="ti-widget-container ti-col-4">
+                                        <div class="ti-footer source-Google">
+                                            <div class="ti-rating-text"> <strong class="ti-rating ti-rating-large"> EXCELENTE </strong> </div> <span class="ti-stars star-lg"> <span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span>
+                                            <span
+                                            class="ti-star f"></span>
+                                                </span>
+                                                <div class="ti-rating-text"> <span class="nowrap">A base de <strong>545 reseñas</strong></span> </div>
+                                                <div class="ti-large-logo">
+                                                    <div class="ti-v-center"> <img loading="lazy" decoding="async" class="ti-logo-fb" src="https://cdn.trustindex.io/assets/platform/Google/logo.svg" width="150" height="25" loading="lazy" alt="Google" title="Home"> </div>
+                                                </div>
+                                        </div>
+                                        <div class="ti-reviews-container">
+                                            <div class="ti-controls">
+                                                <div class="ti-next" aria-label="Siguiente reseña" role="button"></div>
+                                                <div class="ti-prev" aria-label="Reseña anterior" role="button"></div>
+                                            </div>
+                                            <div class="ti-reviews-container-wrapper">
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a/ACg8ocLA5SeNdyWlAbGj6-oIBttLTMiOGBJUgNA_oq-0aG8IRG-Z1A=s120-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a/ACg8ocLA5SeNdyWlAbGj6-oIBttLTMiOGBJUgNA_oq-0aG8IRG-Z1A=s120-c-rp-mo-br100 2x"
+                                                                alt="romina Galvez" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> romina Galvez </div>
+                                                                <div class="ti-date">2025-04-08</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->Son excelentes, a la primera me comentaron cual podria ser el problema y revisaron y todo, realmente unos capos
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a/ACg8ocJdYcqMTmtXFWXldLuCj-pHwZz8bgrTPY55bGL2XVrtkoJohw=s120-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a/ACg8ocJdYcqMTmtXFWXldLuCj-pHwZz8bgrTPY55bGL2XVrtkoJohw=s120-c-rp-mo-br100 2x"
+                                                                alt="Tamara Barra" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> Tamara Barra </div>
+                                                                <div class="ti-date">2025-04-08</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->Me salvaron, 10/10 el servicio
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a/ACg8ocJT33k9bG1O5Ud3cmxuKa5H5LniAWXO5f5a6TcEPEJ-3s-D714=s120-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a/ACg8ocJT33k9bG1O5Ud3cmxuKa5H5LniAWXO5f5a6TcEPEJ-3s-D714=s120-c-rp-mo-br100 2x"
+                                                                alt="Patricia Villahoz López" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> Patricia Villahoz López </div>
+                                                                <div class="ti-date">2025-04-07</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->muy buen trabajo bueno, bonito y barato
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a-/ALV-UjXu7DgYXjI4xVDZl_RWbsVtKwGtJjwFo9hEFdZPPq5Gfuq5CNWKIg=s120-c-rp-mo-ba2-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjXu7DgYXjI4xVDZl_RWbsVtKwGtJjwFo9hEFdZPPq5Gfuq5CNWKIg=s120-c-rp-mo-ba2-br100 2x"
+                                                                alt="eduardo gonzalez" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> eduardo gonzalez </div>
+                                                                <div class="ti-date">2025-04-07</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->buen servicio por cambio de pantalla notebook, dentro del plazo ofrecido, todo bien, saludos
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a-/ALV-UjWp_XM7c3rTIcQSoXcxpZhOBCw5jxGiC-fivadoRRua8fjD_VJh=s120-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjWp_XM7c3rTIcQSoXcxpZhOBCw5jxGiC-fivadoRRua8fjD_VJh=s120-c-rp-mo-br100 2x"
+                                                                alt="Jovanna Aguero" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> Jovanna Aguero </div>
+                                                                <div class="ti-date">2025-04-03</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->Hola buenas una pregunta mire se me cayo la computadora y la pantalla se rompio lo puede solucionar es del gobierno la computadora y es marca levono
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a/ACg8ocLaL4jPNuBMyc1GU4nVzRkWcAyfClMIELnhtoIBsYgCt0aN=s120-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a/ACg8ocLaL4jPNuBMyc1GU4nVzRkWcAyfClMIELnhtoIBsYgCt0aN=s120-c-rp-mo-br100 2x"
+                                                                alt="Ambar Suárez" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> Ambar Suárez </div>
+                                                                <div class="ti-date">2025-04-03</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->Necesitaba de urgencia usar mi dispositivo y la reparación fue muy rápida y muy buena atención al cliente
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a-/ALV-UjXoVwgdSBXHqXsQQo6K4HkG7LAmvegrTu5ihLZEihdTA-WppdfM=s120-c-rp-mo-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjXoVwgdSBXHqXsQQo6K4HkG7LAmvegrTu5ihLZEihdTA-WppdfM=s120-c-rp-mo-br100 2x"
+                                                                alt="Julio Guillermo Alvarez Corredera" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> Julio Guillermo Alvarez Corredera </div>
+                                                                <div class="ti-date">2025-03-27</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->Excelente servicio, con calidad, garantía y buen precio.
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                                <div data-empty="0" class="ti-review-item source-Google ti-image-layout-thumbnail" data-id="cfcd208495d565ef66e7dff9f98764da">
+                                                    <div class="ti-inner">
+                                                        <div class="ti-review-header">
+                                                            <div class="ti-profile-img"> <img decoding="async" src="https://lh3.googleusercontent.com/a-/ALV-UjXH2Qt0Y4007EgOM0XFQulyrFhZoVNrfX8td2ja3Rl0e3Ay1Jpf=s120-c-rp-mo-ba3-br100" srcset="https://lh3.googleusercontent.com/a-/ALV-UjXH2Qt0Y4007EgOM0XFQulyrFhZoVNrfX8td2ja3Rl0e3Ay1Jpf=s120-c-rp-mo-ba3-br100 2x"
+                                                                alt="Almendra Aguirre" loading="lazy" title="Home"> </div>
+                                                            <div class="ti-profile-details">
+                                                                <div class="ti-name"> Almendra Aguirre </div>
+                                                                <div class="ti-date">2025-03-27</div>
+                                                            </div>
+                                                        </div> <span class="ti-stars"><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span><span class="ti-star f"></span></span>
+                                                        <div class="ti-review-text-container ti-review-content">
+                                                            <!-- R-CONTENT -->Metí la pata y me eche la placa madre del pc, buscando encontré este lugar y me deje llevar por los comentarios que tenia en Google. Definitivamente tenían razón, el lugar es muy bueno y París
+                                                            se da el tiempo de explicar con peras y manzanas todo lo que tiene el dispositivo para que hasta el que no sabe nada, entienda. Lamentablemente mi notebook no tuvo solución pero puedo dar fe
+                                                            que hicieron todo lo posible para poder arreglarlo. Esperaron meses a que me llegara la placa nueva y cuando llegó, me fueron actualizando del estado a medida que tuvieran información, que realmente
+                                                            fue menos de una semana. Así está absolumente recomendado 1000%. Muchas gracias a París y el equipo por su atención 🙏
+                                                            <!-- R-CONTENT -->
+                                                        </div> <span class="ti-read-more" data-container=".ti-review-content" data-collapse-text="Ocultar" data-open-text="Leer más"></span> </div>
+                                                </div>
+                                            </div>
+                                            <div class="ti-controls-line">
+                                                <div class="dot"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-47b1fc5 e-con-full e-flex e-con e-parent" data-id="47b1fc5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+                <div class="elementor-element elementor-element-d514d8e e-con-full e-flex e-con e-child" data-id="d514d8e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+                    <div class="elementor-element elementor-element-44d9199 elementor-widget elementor-widget-heading" data-id="44d9199" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default"><a href="https://pc-tech.cl/limpieza-de-notebook/">¿Se te cayo liquído en tu Notebook?
+<br>NO importa, nosotros lo reparamos</a></h2> </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-443bb3a e-con-full e-flex e-con e-child" data-id="443bb3a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-413d51a e-flex e-con-boxed e-con e-child" data-id="413d51a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_direction&quot;:&quot;negative&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+                        <div class="e-con-inner">
+                            <div class="elementor-element elementor-element-21b4c30 elementor-widget elementor-widget-heading" data-id="21b4c30" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default"><a href="https://pc-tech.cl/upgrade-de-memoria-ram-notebook/">Mejoramos tu velocidad<br>
+Cambiando tu memoria RAM</a></h2> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-9db5013 e-flex e-con-boxed e-con e-child" data-id="9db5013" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+                        <div class="e-con-inner">
+                            <div class="elementor-element elementor-element-54889ee elementor-widget elementor-widget-heading" data-id="54889ee" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default"><a href="https://pc-tech.cl/cambio-de-disco-duro-a-ssd/">Mejoramos tu velocidad<br>
+Cambiando Disco a Solido SSD</a></h2> </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-c4e6597 e-con-full e-flex e-con e-parent" data-id="c4e6597" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+                <div class="elementor-element elementor-element-e1dc775 e-con-full e-flex e-con e-child" data-id="e1dc775" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+                    <div class="elementor-element elementor-element-cf62edd elementor-widget elementor-widget-heading" data-id="cf62edd" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default"><a href="https://pc-tech.cl/cambio-de-pantalla-para-notebook/">¡No esperes más! Cambiamos pantallas de todos las marcas de Notebook y Macbook</a></h2> </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-150f407 e-con-full e-flex e-con e-child" data-id="150f407" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-fd55504 e-flex e-con-boxed e-con e-child" data-id="fd55504" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_direction&quot;:&quot;negative&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+                        <div class="e-con-inner">
+                            <div class="elementor-element elementor-element-36a859b elementor-widget elementor-widget-heading" data-id="36a859b" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default"><a href="https://pc-tech.cl/servicio-tecnico-de-notebook/">¿Tu hardware falla? ¡Actúa ahora! <br>Ofrecemos mantenimiento especializado.</a></h2> </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-e5068a5 e-flex e-con-boxed e-con e-child" data-id="e5068a5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;content_width&quot;:&quot;boxed&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+                        <div class="e-con-inner">
+                            <div class="elementor-element elementor-element-5563b30 elementor-widget elementor-widget-heading" data-id="5563b30" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default"><a href="https://pc-tech.cl/reparacion-de-macbook-air/">¿Problemas con tu MacBook? <br>
+Expertos a tu servicio. <br>
+¡Solicita tu revisión ahora!</a></h2> </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="elementor-element elementor-element-c97a2ee e-flex e-con-boxed e-con e-parent" data-id="c97a2ee" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+                <div class="e-con-inner">
+                    <div class="elementor-element elementor-element-f339f1f e-con-full e-flex e-con e-child" data-id="f339f1f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        <div class="elementor-element elementor-element-e020e92 elementor-widget elementor-widget-google_maps" data-id="e020e92" data-element_type="widget" data-widget_type="google_maps.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor - v3.19.0 - 28-02-2024 */
+                                    .elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps .elementor-custom-embed{line-height:0}.elementor-widget-google_maps iframe{height:300px}
+                                </style>
+                                <div class="elementor-custom-embed">
+                                    <iframe loading="lazy" src="https://maps.google.com/maps?q=PC-TECH%2C%20Hu%C3%A9rfanos%20886%20Santiago%20de%20Chile&#038;t=m&#038;z=16&#038;output=embed&#038;iwloc=near" title="PC-TECH, Huérfanos 886 Santiago de Chile" aria-label="PC-TECH, Huérfanos 886 Santiago de Chile"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-element elementor-element-1efe984 e-con-full e-flex e-con e-child" data-id="1efe984" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                        <div class="elementor-element elementor-element-bb1464b elementor-widget elementor-widget-heading" data-id="bb1464b" data-element_type="widget" data-widget_type="heading.default">
+                            <div class="elementor-widget-container">
+                                <h2 class="elementor-heading-title elementor-size-default">Reparamos tu Equipo el mismo día.</h2> </div>
+                        </div>
+                        <div class="elementor-element elementor-element-2309719 elementor-widget elementor-widget-text-editor" data-id="2309719" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor - v3.19.0 - 28-02-2024 */
+                                    .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
+                                </style>
+                                <p>Nuestro equipo especializado está listo para atender y brindar respuestas efectivas a tus necesidades. </p>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-63f2a92 elementor-button-align-start elementor-widget elementor-widget-form" data-id="63f2a92" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;40&quot;,&quot;step_next_label&quot;:&quot;Siguiente&quot;,&quot;step_previous_label&quot;:&quot;Anterior&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}"
+                        data-widget_type="form.default">
+                            <div class="elementor-widget-container">
+                                <style>
+                                    /*! elementor-pro - v3.19.0 - 26-02-2024 */
+                                    .elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form__step{width:100%}.e-form__step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form__buttons{flex-wrap:wrap}.e-form__buttons,.e-form__buttons__wrapper{display:flex}.e-form__indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form__indicators__indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form__indicators__indicator__progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form__indicators__indicator__progress__meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;transition:width .1s linear}.e-form__indicators__indicator:first-child{padding-left:0}.e-form__indicators__indicator:last-child{padding-right:0}.e-form__indicators__indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form__indicators__indicator--state-inactive object,.e-form__indicators__indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active object,.e-form__indicators__indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form__indicators__indicator--state-completed object,.e-form__indicators__indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator__icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form__indicators__indicator__icon img,.e-form__indicators__indicator__icon object,.e-form__indicators__indicator__icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form__indicators__indicator__icon .e-font-icon-svg{height:1em}.e-form__indicators__indicator__number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;margin-bottom:10px}.e-form__indicators__indicator--shape-circle{border-radius:50%}.e-form__indicators__indicator--shape-square{border-radius:0}.e-form__indicators__indicator--shape-rounded{border-radius:5px}.e-form__indicators__indicator--shape-none{border:0}.e-form__indicators__indicator__label{text-align:center}.e-form__indicators__indicator__separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#babfc5}.e-form__indicators--type-icon,.e-form__indicators--type-icon_text,.e-form__indicators--type-number,.e-form__indicators--type-number_text{align-items:flex-start}.e-form__indicators--type-icon .e-form__indicators__indicator__separator,.e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,.e-form__indicators--type-number .e-form__indicators__indicator__separator,.e-form__indicators--type-number_text .e-form__indicators__indicator__separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-field-type-tel input{direction:inherit}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{order:3}.elementor-form .elementor-button>span{display:flex;justify-content:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}
+                                </style>
+                                <form class="elementor-form" method="post" name="FormCotización">
+                                    <input type="hidden" name="post_id" value="104" />
+                                    <input type="hidden" name="form_id" value="63f2a92" />
+                                    <input type="hidden" name="referer_title" value="Servicio técnico computadores, notebooks, PC y Mac :: Pc-Tech.cl" />
+
+                                    <input type="hidden" name="queried_id" value="104" />
+
+                                    <div class="elementor-form-fields-wrapper elementor-labels-">
+                                        <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
+                                            <label for="form-field-name" class="elementor-field-label elementor-screen-only">
+                                                Nombre </label>
+                                            <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nombre*" required="required" aria-required="true">
+                                        </div>
+                                        <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+                                            <label for="form-field-email" class="elementor-field-label elementor-screen-only">
+                                                Correo electrónico </label>
+                                            <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Correo electrónico*" required="required" aria-required="true">
+                                        </div>
+                                        <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_963eec3 elementor-col-100 elementor-field-required">
+                                            <label for="form-field-field_963eec3" class="elementor-field-label elementor-screen-only">
+                                                Teléfono </label>
+                                            <input size="1" type="tel" name="form_fields[field_963eec3]" id="form-field-field_963eec3" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Télefono*" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+"
+                                            title="Solo se aceptan números y caracteres de teléfono (#,-,*,etc).">
+
+                                        </div>
+                                        <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+                                            <label for="form-field-message" class="elementor-field-label elementor-screen-only">
+                                                Mensaje </label>
+                                            <textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Describe el modelo o problema con tu equipo"></textarea>
+                                        </div>
+                                        <div class="elementor-field-type-recaptcha_v3 elementor-field-group elementor-column elementor-field-group-field_719ca5d elementor-col-100 recaptcha_v3-bottomleft">
+                                            <div class="elementor-field" id="form-field-field_719ca5d">
+                                                <div class="elementor-g-recaptcha" data-sitekey="6Le_ZocpAAAAAGQneUs5LQi0pJn7ztDrPXDKRiDv" data-type="v3" data-action="Form" data-badge="bottomleft" data-size="invisible"></div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-40 e-form__buttons">
+                                            <button type="submit" class="elementor-button elementor-size-sm">
+                                                <span>
+															<span class="elementor-align-icon-left elementor-button-icon">
+									<i aria-hidden="true" class="far fa-hand-point-right"></i>																	</span>
+                                                <span class="elementor-button-text">Enviar</span>
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="post-tags">
+        </div>
+        </div>
+
+
+    </main>
+
+    <div data-elementor-type="footer" data-elementor-id="77" class="elementor elementor-77 elementor-location-footer" data-elementor-post-type="elementor_library">
+        <div class="elementor-element elementor-element-08aabad e-flex e-con-boxed e-con e-parent" data-id="08aabad" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}"
+        data-core-v316-plus="true">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-684b41a e-con-full e-flex e-con e-child" data-id="684b41a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-21e5f1d elementor-widget elementor-widget-image" data-id="21e5f1d" data-element_type="widget" data-widget_type="image.default">
+                        <div class="elementor-widget-container">
+                            <img width="800" height="180" src="https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2024-1024x231.png" class="attachment-large size-large wp-image-339" alt="" srcset="https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2024-1024x231.png 1024w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2024-300x68.png 300w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2024-768x173.png 768w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2024-1536x346.png 1536w, https://pc-tech.cl/wp-content/uploads/2023/09/logo-pctech-2024-2048x462.png 2048w"
+                            sizes="(max-width: 800px) 100vw, 800px" /> </div>
+                    </div>
+                    <div class="elementor-element elementor-element-5cb51f0 elementor-widget elementor-widget-heading" data-id="5cb51f0" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h2 class="elementor-heading-title elementor-size-default">El mejor<br>
+<em>Servicio Técnico</em><br>
+para tu<br>
+<em>Notebook o Computador</em></h2> </div>
+                    </div>
+                    <div class="elementor-element elementor-element-ab5b23b elementor-widget elementor-widget-text-editor" data-id="ab5b23b" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            <a class="link-verde" title="Servicio Tecnico en Santiago" href="https://pc-tech.cl/"><strong>PC TECH</strong></a> cuenta con Servicio Tecnico para Notebook o Computadores a Domicilio en Santiago y comunas cercanas. Nuestro
+                            personal Calificado atiende Particulares y Empresas. </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-dc9d437 e-con-full e-flex e-con e-child" data-id="dc9d437" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-4e915a9 elementor-widget elementor-widget-heading" data-id="4e915a9" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h4 class="elementor-heading-title elementor-size-default">Reparaciones</h4> </div>
+                    </div>
+                    <div class="elementor-element elementor-element-a36531d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a36531d" data-element_type="widget" data-widget_type="icon-list.default">
+                        <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/reparacion-notebook/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Reparación de Notebook</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/reparacion-de-mac/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Reparación de Macbook</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/reparacion-de-mac/reparacion-de-imac/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Reparación de iMac</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                    <span class="elementor-icon-list-text">Reparación de Placas Madres</span>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/cambio-de-pantalla-para-notebook/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Cambio de Pantallas</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/cambio-de-pasta-termica-para-notebook/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Cambio de Ventiladores</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                    <span class="elementor-icon-list-text">Reparación o cambio de Teclados</span>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                    <span class="elementor-icon-list-text">Cambio de Baterías</span>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                    <span class="elementor-icon-list-text">Reparación o cambio Touchpad</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-955e7a1 e-con-full e-flex e-con e-child" data-id="955e7a1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-10a6506 elementor-widget elementor-widget-heading" data-id="10a6506" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h4 class="elementor-heading-title elementor-size-default">Servicio Técnico</h4> </div>
+                    </div>
+                    <div class="elementor-element elementor-element-35c0828 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="35c0828" data-element_type="widget" data-widget_type="icon-list.default">
+                        <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-de-notebook/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para Notebooks</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-para-mac/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para Mac</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-hp/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para HP</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-toshiba/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para Toshiba</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-lenovo/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para Lenovo</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-acer/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para Acer</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://pc-tech.cl/servicio-tecnico-asus/">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+                                        <span class="elementor-icon-list-text">Servicio Técnico para Asus</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-ddf7934 e-con-full e-flex e-con e-child" data-id="ddf7934" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+                    <div class="elementor-element elementor-element-9e2b9c9 elementor-widget elementor-widget-heading" data-id="9e2b9c9" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <h4 class="elementor-heading-title elementor-size-default">Contacto Pc-Tech</h4> </div>
+                    </div>
+                    <div class="elementor-element elementor-element-8bad819 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8bad819" data-element_type="widget" data-widget_type="icon-list.default">
+                        <div class="elementor-widget-container">
+                            <ul class="elementor-icon-list-items">
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+                                    <span class="elementor-icon-list-text">contacto@pc-tech.cl</span>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="tel:+56229935548" target="_blank" rel="nofollow">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+                                        <span class="elementor-icon-list-text">(2) 2993 5548</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <a href="https://api.whatsapp.com/send?phone=+56954613184&#038;text=%C2%A1Ayuda!%20tengo%20problemas%20con%20mi%20equipo...%20" target="_blank" rel="nofollow">
+
+                                        <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-mobile-alt"></i>						</span>
+                                        <span class="elementor-icon-list-text">(9) 5461 3184</span>
+                                    </a>
+                                </li>
+                                <li class="elementor-icon-list-item">
+                                    <span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-laptop-house"></i>						</span>
+                                    <span class="elementor-icon-list-text">Huerfanos 886, Oficina 807 <br>Santiago Centro - Chile</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-4c29fff e-flex e-con-boxed e-con e-parent" data-id="4c29fff" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}"
+        data-core-v316-plus="true">
+            <div class="e-con-inner">
+                <div class="elementor-element elementor-element-41b6204 elementor-widget elementor-widget-heading" data-id="41b6204" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">Pc-Tech © 2023 - Todos los derechos reservados - Términos y Condiciones - Mapa del Sitio - Copyright WebySEO</span> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="speculationrules">
+        {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch,
+        .no-prefetch a"}}]},"eagerness":"conservative"}]}
+    </script>
+
+    <div class="joinchat joinchat--right" data-settings='{"telephone":"56954613184","mobile_only":false,"button_delay":3,"whatsapp_web":false,"qr":false,"message_views":2,"message_delay":10,"message_badge":true,"message_send":"¡Hola! 👋 ¿Tu PC necesita ayuda? Reparamos lo que otros NO! 💻🛠️","message_hash":"eed755e5"}'>
+        <div class="joinchat__button">
+            <div class="joinchat__button__open"></div>
+            <div class="joinchat__button__sendtext">Abrir chat</div>
+            <svg class="joinchat__button__send" width="60" height="60" viewbox="0 0 400 400" stroke-linecap="round" stroke-width="33">
+                <path class="joinchat_svg__plain" d="M168.83 200.504H79.218L33.04 44.284a1 1 0 0 1 1.386-1.188L365.083 199.04a1 1 0 0 1 .003 1.808L34.432 357.903a1 1 0 0 1-1.388-1.187l29.42-99.427" />
+                <path class="joinchat_svg__chat" d="M318.087 318.087c-52.982 52.982-132.708 62.922-195.725 29.82l-80.449 10.18 10.358-80.112C18.956 214.905 28.836 134.99 81.913 81.913c65.218-65.217 170.956-65.217 236.174 0 42.661 42.661 57.416 102.661 44.265 157.316"
+                />
+            </svg>
+            <div class="joinchat__badge">1</div>
+        </div>
+        <div class="joinchat__box">
+            <div class="joinchat__header">
+                <a class="joinchat__powered" href="https://join.chat/es/powered/?site=PcTech&#038;url=https%3A%2F%2Fpc-tech.cl" rel="nofollow noopener" target="_blank">
+						Powered by <svg width="81" height="18" viewbox="0 0 1424 318"><title>Joinchat</title><path d="m171 7 6 2 3 3v5l-1 8a947 947 0 0 0-2 56v53l1 24v31c0 22-6 43-18 63-11 19-27 35-48 48s-44 18-69 18c-14 0-24-3-32-8-7-6-11-13-11-23a26 26 0 0 1 26-27c7 0 13 2 19 6l12 12 1 1a97 97 0 0 0 10 13c4 4 7 6 10 6 4 0 7-2 10-6l6-23v-1c2-12 3-28 3-48V76l-1-3-3-1h-1l-11-2c-2-1-3-3-3-7s1-6 3-7a434 434 0 0 0 90-49zm1205 43c4 0 6 1 6 3l3 36a1888 1888 0 0 0 34 0h1l3 2 1 8-1 8-3 1h-35v62c0 14 2 23 5 28 3 6 9 8 16 8l5-1 3-1c2 0 3 1 5 3s3 4 2 6c-4 10-11 19-22 27-10 8-22 12-36 12-16 0-28-5-37-15l-8-13v1h-1c-17 17-33 26-47 26-18 0-31-13-39-39-5 12-12 22-21 29s-19 10-31 10c-11 0-21-4-29-13-7-8-11-18-11-30 0-10 2-17 5-23s9-11 17-15c13-7 35-14 67-21h1v-11c0-11-2-19-5-26-4-6-8-9-14-9-3 0-5 1-5 4v1l-2 15c-2 11-6 19-11 24-6 6-14 8-23 8-5 0-9-1-13-4-3-3-5-8-5-13 0-11 9-22 26-33s38-17 60-17c41 0 62 15 62 46v58l1 11 2 8 2 3h4l5-3 1-1-1-13v-88l-3-2-12-1c-1 0-2-3-2-7s1-6 2-6c16-4 29-9 40-15 10-6 20-15 31-25 1-2 4-3 7-3zM290 88c28 0 50 7 67 22 17 14 25 34 25 58 0 26-9 46-27 61s-42 22-71 22c-28 0-50-7-67-22a73 73 0 0 1-25-58c0-26 9-46 27-61s42-22 71-22zm588 0c19 0 34 4 45 12 11 9 17 18 17 29 0 6-3 11-7 15s-10 6-17 6c-13 0-24-8-33-25-5-11-10-18-13-21s-6-5-9-5c-8 0-11 6-11 17a128 128 0 0 0 32 81c8 8 16 12 25 12 8 0 16-3 24-10 1-1 3 0 6 2 2 2 3 3 3 5-5 12-15 23-29 32s-30 13-48 13c-24 0-43-7-58-22a78 78 0 0 1-22-58c0-25 9-45 27-60s41-23 68-23zm-402-3 5 2 3 3-1 10a785 785 0 0 0-2 53v76c1 3 2 4 4 4l11 3 11-3c3 0 4-1 4-4v-82l-1-2-3-2-11-1-2-6c0-4 1-6 2-6a364 364 0 0 0 77-44l5 2 3 3v12a393 393 0 0 0-1 21c5-10 12-18 22-25 9-8 21-11 34-11 16 0 29 5 38 14 10 9 14 22 14 39v88c0 3 2 4 4 4l11 3c1 0 2 2 2 6 0 5-1 7-2 7h-1a932 932 0 0 1-49-2 462 462 0 0 0-48 2c-2 0-3-2-3-7 0-3 1-6 3-6l8-3 3-1 1-3v-62c0-14-2-24-6-29-4-6-12-9-22-9l-7 1v99l1 3 3 1 8 3h1l2 6c0 5-1 7-3 7a783 783 0 0 1-47-2 512 512 0 0 0-51 2h-1a895 895 0 0 1-49-2 500 500 0 0 0-50 2c-1 0-2-2-2-7 0-4 1-6 2-6l11-3c2 0 3-1 4-4v-82l-1-3-3-1-11-2c-1 0-2-2-2-6l2-6a380 380 0 0 0 80-44zm539-75 5 2 3 3-1 9a758 758 0 0 0-2 55v42h1c5-9 12-16 21-22 9-7 20-10 32-10 16 0 29 5 38 14 10 9 14 22 14 39v88c0 2 2 3 4 4l11 2c1 0 2 2 2 7 0 4-1 6-2 6h-1a937 937 0 0 1-49-2 466 466 0 0 0-48 2c-2 0-3-2-3-6s1-7 3-7l8-2 3-2 1-3v-61c0-14-2-24-6-29-4-6-12-9-22-9l-7 1v99l1 2 3 2 8 2h1c1 1 2 3 2 7s-1 6-3 6a788 788 0 0 1-47-2 517 517 0 0 0-51 2c-1 0-2-2-2-6 0-5 1-7 2-7l11-2c3-1 4-2 4-5V71l-1-3-3-1-11-2c-1 0-2-2-2-6l2-6a387 387 0 0 0 81-43zm-743 90c-8 0-12 7-12 20a266 266 0 0 0 33 116c3 3 6 4 9 4 8 0 12-6 12-20 0-17-4-38-11-65-8-27-15-44-22-50-3-4-6-5-9-5zm939 65c-6 0-9 4-9 13 0 8 2 16 7 22 5 7 10 10 15 10l6-2v-22c0-6-2-11-7-15-4-4-8-6-12-6zM451 0c10 0 18 3 25 10s10 16 10 26a35 35 0 0 1-35 36c-11 0-19-4-26-10-7-7-10-16-10-26s3-19 10-26 15-10 26-10zm297 249c9 0 16-3 22-8 6-6 9-12 9-20s-3-15-9-21-13-8-22-8-16 3-22 8-9 12-9 21 3 14 9 20 13 8 22 8z"/></svg>
+					</a>
+                <div class="joinchat__close" title="Cerrar"></div>
+            </div>
+            <div class="joinchat__box__scroll">
+                <div class="joinchat__box__content">
+                    <div class="joinchat__message">¡Hola! 👋 ¿Tu PC necesita ayuda? Estamos aquí para solucionarlo. 💻🛠️</div>
+                </div>
+            </div>
+        </div>
+        <svg style="width:0;height:0;position:absolute">
+            <defs>
+                <clipPath id="joinchat__peak_l">
+                    <path d="M17 25V0C17 12.877 6.082 14.9 1.031 15.91c-1.559.31-1.179 2.272.004 2.272C9.609 18.182 17 18.088 17 25z" />
+                </clipPath>
+                <clipPath id="joinchat__peak_r">
+                    <path d="M0 25.68V0c0 13.23 10.92 15.3 15.97 16.34 1.56.32 1.18 2.34 0 2.34-8.58 0-15.97-.1-15.97 7Z" />
+                </clipPath>
+            </defs>
+        </svg>
+    </div>
+    <script src="https://pc-tech.cl/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1" id="hello-theme-frontend-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=5.0.17" id="joinchat-js"></script>
+    <script src="https://pc-tech.cl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+    <script src="https://pc-tech.cl/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+    <script defer async src="https://cdn.trustindex.io/loader.js?ver=6.9" id="trustindex-js-js"></script>
+    <script id="trustindex-js-js-after">
+        (function ti_init() {
+        if(typeof Trustindex == "undefined"){setTimeout(ti_init, 1985);return false;}
+        if(typeof Trustindex.pager_inited != "undefined"){return false;}
+        Trustindex.init_pager(document.querySelectorAll(".ti-widget"));
+        })();
+        //# sourceURL=trustindex-js-js-after
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?render=explicit&amp;ver=3.19.3" id="elementor-recaptcha_v3-api-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.19.3" id="elementor-pro-webpack-runtime-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4" id="elementor-webpack-runtime-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4" id="elementor-frontend-modules-js"></script>
+    <script src="https://pc-tech.cl/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+    <script src="https://pc-tech.cl/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+    <script id="wp-i18n-js-after">
+        wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+        //# sourceURL=wp-i18n-js-after
+    </script>
+    <script id="elementor-pro-frontend-js-before">
+        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/pc-tech.cl\/wp-admin\/admin-ajax.php","nonce":"8a2544fa8a","urls":{"assets":"https:\/\/pc-tech.cl\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/pc-tech.cl\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/pc-tech.cl\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+        //# sourceURL=elementor-pro-frontend-js-before
+    </script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.19.3" id="elementor-pro-frontend-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+    <script src="https://pc-tech.cl/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+    <script id="elementor-frontend-js-before">
+        var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.19.4","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/pc-tech.cl\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":104,"title":"Servicio%20t%C3%A9cnico%20computadores%2C%20notebooks%2C%20PC%20y%20Mac%20%3A%3A%20Pc-Tech.cl","excerpt":"","featuredImage":false}};
+        //# sourceURL=elementor-frontend-js-before
+    </script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4" id="elementor-frontend-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.19.3" id="pro-elements-handlers-js"></script>
+    <script src="https://pc-tech.cl/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.19.3" id="e-sticky-js"></script>
+    <script id="wp-emoji-settings" type="application/json">
+        {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://pc-tech.cl/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+    </script>
+    <script type="module">
+        /*! This file is auto-generated */ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
+        c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return
+        t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e
+        <n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case
+        "flag":return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e, "\ud83c\udde8\ud83c\uddf6", "\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,
+        "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case "emoji":return!a(e, "\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined" !=typeof WorkerGlobalScope&&self
+        instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement( "canvas")).getContext( "2d",{willReadFrequently:!0}),s=(o.textBaseline="top" ,o.font="600 32px Arial" ,{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof
+            e&&"number"==typeof e.timestamp&&(new Date).valueOf()
+            <e.timestamp+604800&& "object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if( "undefined"!=typeof Worker&& "undefined"!=typeof OffscreenCanvas&&
+            "undefined"!=typeof URL&&URL.createObjectURL&& "undefined"!=typeof Blob)try{var e="postMessage(" +f.toString()+ "("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join( ",")+ "));",a=new Blob([e],{type: "text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:
+            "wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var
+                t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://pc-tech.cl/wp-includes/js/wp-emoji-loader.min.js
+    </script>
+
+</body>
+
+</html>
