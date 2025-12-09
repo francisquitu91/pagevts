@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { 
-  Phone, 
   MapPin, 
   Clock, 
   Menu, 
@@ -68,10 +67,6 @@ const Header: React.FC = () => {
               <li className="flex items-center gap-2">
                 <Clock className="w-4 h-4 text-azul" />
                 <span>Lun - Vie 10:00 a 18:00 | Sáb 10:00 a 13:00</span>
-              </li>
-              <li className="flex items-center gap-2">
-                <Phone className="w-4 h-4 text-azul" />
-                <span>+569 9791 9374</span>
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="w-4 h-4 text-azul" />
