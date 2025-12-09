@@ -51,7 +51,7 @@ const AdminPanel: React.FC = () => {
   }, [isAuthenticated]);
 
   const checkAuth = async () => {
-    // Check local storage for dev mode auth
+    // Check local storage for admin auth (works on both localhost and pagevts.onrender.com)
     const devAuth = localStorage.getItem('valpotec_admin_auth');
     if (devAuth === 'true') {
       setIsAuthenticated(true);

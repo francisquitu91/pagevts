@@ -125,15 +125,6 @@ const Hero: React.FC = () => {
                 >
                   {slide.description}
                 </p>
-                <a
-                  href={slide.buttonLink}
-                  className={`inline-flex items-center gap-2 bg-azul hover:bg-azul-dark text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1 ${
-                    index === currentSlide ? 'translate-y-0 opacity-100' : 'translate-y-8 opacity-0'
-                  }`}
-                  style={{ transitionDelay: '800ms' }}
-                >
-                  {slide.buttonText}
-                </a>
               </div>
             </div>
           </div>

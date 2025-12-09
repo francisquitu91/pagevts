@@ -21,16 +21,18 @@ interface NavItem {
   submenu?: { label: string; href: string }[];
 }
 
+const WHATSAPP_BASE = 'https://wa.me/56997919374?text=';
+
 const navItems: NavItem[] = [
   {
     label: 'Servicios',
-    href: '#servicios',
+    href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito información sobre sus servicios'),
     submenu: [
-      { label: 'Reparación de Notebooks', href: '#servicios' },
-      { label: 'Reparación de PC', href: '#servicios' },
-      { label: 'Soporte Técnico Dell', href: '#servicios' },
-      { label: 'Cámaras de Seguridad', href: '#servicios' },
-      { label: 'Mantención Preventiva', href: '#servicios' },
+      { label: 'Reparación de Notebooks', href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito información sobre Reparación de Notebooks') },
+      { label: 'Reparación de PC', href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito información sobre Reparación de PC') },
+      { label: 'Soporte Técnico Dell', href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito información sobre Soporte Técnico Dell') },
+      { label: 'Cámaras de Seguridad', href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito información sobre Cámaras de Seguridad') },
+      { label: 'Mantención Preventiva', href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito información sobre Mantención Preventiva') },
     ]
   },
   {
@@ -39,7 +41,7 @@ const navItems: NavItem[] = [
   },
   {
     label: 'Contacto',
-    href: '#contacto',
+    href: WHATSAPP_BASE + encodeURIComponent('¡Hola! Necesito contactarme con ValpoTEC'),
   }
 ];
 
@@ -99,6 +101,8 @@ const Header: React.FC = () => {
                 <div key={item.label} className="relative group">
                   <a 
                     href={item.href}
+                    target={item.href.includes('wa.me') ? '_blank' : undefined}
+                    rel={item.href.includes('wa.me') ? 'noopener noreferrer' : undefined}
                     className="flex items-center gap-1 px-4 py-2 text-gray-700 font-medium hover:text-azul hover:bg-azul/5 rounded-md transition-colors"
                   >
                     {item.label}
@@ -113,6 +117,8 @@ const Header: React.FC = () => {
                           <a
                             key={subItem.label}
                             href={subItem.href}
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="block px-4 py-2 text-gray-700 hover:bg-azul hover:text-white transition-colors"
                           >
                             {subItem.label}
@@ -152,15 +158,24 @@ const Header: React.FC = () => {
           <div className="container mx-auto px-4 py-4">
             {navItems.map((item) => (
               <div key={item.label} className="border-b border-gray-100 last:border-b-0">
-                <button
-                  onClick={() => item.submenu ? toggleSubmenu(item.label) : null}
-                  className="w-full flex justify-between items-center py-3 text-gray-700 font-medium hover:text-azul"
-                >
-                  <span>{item.label}</span>
-                  {item.submenu && (
+                {item.submenu ? (
+                  <button
+                    onClick={() => toggleSubmenu(item.label)}
+                    className="w-full flex justify-between items-center py-3 text-gray-700 font-medium hover:text-azul"
+                  >
+                    <span>{item.label}</span>
                     <ChevronDown className={`w-4 h-4 transition-transform ${openSubmenu === item.label ? 'rotate-180' : ''}`} />
-                  )}
-                </button>
+                  </button>
+                ) : (
+                  <a
+                    href={item.href}
+                    target={item.href.includes('wa.me') ? '_blank' : undefined}
+                    rel={item.href.includes('wa.me') ? 'noopener noreferrer' : undefined}
+                    className="w-full flex justify-between items-center py-3 text-gray-700 font-medium hover:text-azul"
+                  >
+                    <span>{item.label}</span>
+                  </a>
+                )}
                 
                 {/* Submenu Mobile */}
                 {item.submenu && (
@@ -169,6 +184,8 @@ const Header: React.FC = () => {
                       <a
                         key={subItem.label}
                         href={subItem.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="block pl-4 py-2 text-gray-500 hover:text-azul transition-colors"
                       >
                         {subItem.label}

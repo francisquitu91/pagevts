@@ -164,18 +164,20 @@ const Footer: React.FC = () => {
       <div className="border-t border-white/10">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-400 text-sm text-center md:text-left">
-              ValpoTEC © {new Date().getFullYear()} - Todos los derechos reservados - Términos y Condiciones
-            </p>
+            <div className="flex items-center gap-4">
+              <a href="/admin" className="text-gray-500 hover:text-azul-light text-xs transition-colors">
+                Admin
+              </a>
+              <p className="text-gray-400 text-sm text-center md:text-left">
+                ValpoTEC © {new Date().getFullYear()} - Todos los derechos reservados
+              </p>
+            </div>
             <div className="flex items-center gap-4">
               <a href="#" className="text-gray-400 hover:text-azul-light text-sm transition-colors">
                 Política de Privacidad
               </a>
               <a href="#" className="text-gray-400 hover:text-azul-light text-sm transition-colors">
                 Mapa del Sitio
-              </a>
-              <a href="/admin" className="text-gray-500 hover:text-azul-light text-xs transition-colors">
-                Admin
               </a>
             </div>
           </div>
