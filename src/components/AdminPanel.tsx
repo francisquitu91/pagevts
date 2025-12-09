@@ -2,6 +2,10 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Plus, Pencil, Trash2, X, Save, LogIn, LogOut, Package, Upload, Image as ImageIcon } from 'lucide-react';
 import { supabase, getProducts, addProduct, updateProduct, deleteProduct, Product } from '../lib/supabase';
 
+interface AdminPanelProps {
+  onClose?: () => void;
+}
+
 interface ProductForm {
   name: string;
   description: string;
@@ -26,7 +30,7 @@ const initialForm: ProductForm = {
   featured: false,
 };
 
-const AdminPanel: React.FC = () => {
+const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -296,7 +300,7 @@ const AdminPanel: React.FC = () => {
           </form>
 
           <p className="text-center text-sm text-gray-500 mt-6">
-            <a href="/" className="text-azul hover:underline">← Volver al sitio</a>
+            <button onClick={onClose} className="text-azul hover:underline">← Volver al sitio</button>
           </p>
         </div>
       </div>
@@ -319,7 +323,7 @@ const AdminPanel: React.FC = () => {
             </div>
           </div>
           <div className="flex items-center gap-3">
-            <a href="/" className="text-azul hover:underline text-sm">Ver sitio</a>
+            <button onClick={onClose} className="text-azul hover:underline text-sm">Cerrar panel</button>
             <button
               onClick={handleLogout}
               className="flex items-center gap-2 px-4 py-2 text-gray-600 hover:bg-gray-100 rounded-lg transition-colors"

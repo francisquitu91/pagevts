@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { 
   Mail, 
   MapPin, 
@@ -8,6 +8,7 @@ import {
   Instagram,
   Check
 } from 'lucide-react';
+import { AdminContext } from '../App';
 
 // WhatsApp Icon
 const WhatsAppIcon: React.FC<{ className?: string }> = ({ className }) => (
@@ -38,6 +39,8 @@ const technicalServices = [
 ];
 
 const Footer: React.FC = () => {
+  const { setShowAdmin } = useContext(AdminContext);
+  
   return (
     <footer className="bg-azul-dark text-white">
       {/* Main Footer */}
@@ -165,9 +168,12 @@ const Footer: React.FC = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-4">
-              <a href="/admin" className="text-gray-500 hover:text-azul-light text-xs transition-colors">
+              <button 
+                onClick={() => setShowAdmin(true)} 
+                className="text-gray-500 hover:text-azul-light text-xs transition-colors"
+              >
                 Admin
-              </a>
+              </button>
               <p className="text-gray-400 text-sm text-center md:text-left">
                 ValpoTEC © {new Date().getFullYear()} - Todos los derechos reservados
               </p>
