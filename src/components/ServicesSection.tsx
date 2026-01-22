@@ -7,14 +7,14 @@ interface Service {
 }
 
 const services: Service[] = [
-  { title: 'Reparación de Placa Madre', icon: 'motherboard' },
-  { title: 'Cambio de Pantallas', icon: 'screen' },
-  { title: 'Cambio de Teclados', icon: 'keyboard' },
-  { title: 'Cambio de Bisagras', icon: 'hinge' },
-  { title: 'Limpieza y Mantención', icon: 'clean' },
-  { title: 'Reinstalación de Sistemas', icon: 'os' },
-  { title: 'Upgrade RAM y SSD', icon: 'ram' },
-  { title: 'Cambio de Baterías', icon: 'battery' },
+  { title: 'Reparación Notebook Nivel Avanzado', icon: 'notebook' },
+  { title: 'Respaldo y Upgrade (Pantallas, Ram, SSD, Etc)', icon: 'upgrade' },
+  { title: 'Reparación Electrónica y Microsoldadura Motheboard', icon: 'motherboard' },
+  { title: 'Reparación Consolas Juego y equipos electrónicos', icon: 'console' },
+  { title: 'Respaldo y Recuperación de Datos', icon: 'backup' },
+  { title: 'Soporte Informático Local y Remoto', icon: 'support' },
+  { title: 'Instalación y configuración aplicaciones informáticas', icon: 'software' },
+  { title: 'Instalación Cámaras de seguridad', icon: 'camera' },
 ];
 
 const ServicesSection: React.FC = () => {
@@ -57,12 +57,22 @@ const ServicesSection: React.FC = () => {
             </span>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-heading font-bold text-azul mb-6 leading-tight">
               Reparaciones de<br />
-              <span className="text-azul">Notebook</span>
+              <span className="text-azul">Notebook y Pc Marca Dell y Multimarca</span>
             </h2>
-            <p className="text-gray-600 text-lg mb-8 leading-relaxed">
+            <p className="text-gray-600 text-lg mb-6 leading-relaxed">
               Nuestro equipo de técnicos certificados está listo para atender cualquier problema con tu notebook. 
               <strong className="text-azul"> Reparamos donde otros fallan</strong>, con garantía en todos nuestros servicios.
             </p>
+            
+            <div className="bg-gradient-to-r from-azul/5 to-morado/5 border-l-4 border-azul p-4 rounded-lg mb-8">
+              <p className="text-gray-700 font-medium mb-2">
+                <span className="text-azul font-semibold">🔧 Repuestos disponibles:</span>
+              </p>
+              <p className="text-gray-600">
+                Contamos con stock de repuestos originales y compatibles: discos SSD, cargadores, 
+                memorias RAM, pantallas, teclados y más componentes para mantener tu equipo funcionando perfectamente.
+              </p>
+            </div>
 
             {/* Lista de servicios */}
             <div className="grid sm:grid-cols-2 gap-4 mb-8">
